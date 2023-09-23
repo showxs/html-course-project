@@ -1,1 +1,1 @@
-# html-course-project
+# html-portfolio-project
